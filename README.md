@@ -1,5 +1,7 @@
 # docker-jenkins_docker
 
+jenkins docker image with docker
+
 1. docker build
 
     `docker build -t <docker name> .`
@@ -19,4 +21,4 @@
     `<ip address>:8080`
 
 
-jenkins docker image with docker
+docker hub url : https://hub.docker.com/r/rickie/jenkins-docker/
