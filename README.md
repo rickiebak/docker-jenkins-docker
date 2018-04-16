@@ -4,13 +4,15 @@
 
     `docker build -t <docker name> .`
 
+
 2. jenkins docker run
 
     `sudo ./start.sh <docker name>`
 
-you can see more options.
-
+    you can see more options.
+    
     `./start.sh -h`
+
 
 3. connect jenkins web ui
 
